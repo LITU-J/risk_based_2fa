@@ -1,0 +1,13 @@
+flask
+flask-login
+flask-wtf
+flask-sqlalchemy
+flask-bcrypt
+flask-mail
+pyotp
+qrcode
+pillow
+requests
+python-dotenv
+twilio
+email-validator
